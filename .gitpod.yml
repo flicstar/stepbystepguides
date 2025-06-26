@@ -1,12 +1,8 @@
-image:
-  file: .gitpod.Dockerfile
-
 tasks:
-  - name: Install TYPO3 docs renderer and render site
-    init: |
-      composer install
+  - name: Render TYPO3 docs
     command: |
-      vendor/bin/guides render Documentation public && python3 -m http.server --directory public 8000
+      vendor/bin/guides render Documentation public && \
+      python3 -m http.server --directory public 8000
 
 ports:
   - port: 8000
