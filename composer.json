@@ -1,0 +1,7 @@
+{
+  "name": "flicstar/stepbystepguides",
+  "type": "project",
+  "require": {
+    "phpdocumentor/guides-cli": "^1.0"
+  }
+}
