@@ -1,5 +1,13 @@
 FROM gitpod/workspace-full
 
-RUN sudo apt-get update && sudo apt-get install -y python3-pip
-RUN curl -sS https://getcomposer.org/installer | php && mv composer.phar /usr/local/bin/composer
-RUN composer global require phpdocumentor/guides-cli
+# Install PHP and required extensions
+RUN sudo apt-get update && \
+    sudo apt-get install -y php-cli php-mbstring php-xml unzip curl
+
+# Install Composer
+RUN curl -sS https://getcomposer.org/installer | php && \
+    sudo mv composer.phar /usr/local/bin/composer
+
+# Set up working directory and pre-install guides-cli
+WORKDIR /workspace/stepbystepguides
+RUN composer require --dev phpdocumentor/guides-cli
