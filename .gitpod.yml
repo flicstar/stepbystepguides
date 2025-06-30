@@ -2,8 +2,3 @@ tasks:
   - name: Build
     init: make file
     command: python3 -m http.server 8080
-
-ports:
-  - port: 8080
-    onOpen: open-browser
-    path: /Documentation-GENERATED-temp/Index.html
