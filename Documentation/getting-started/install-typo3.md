@@ -31,7 +31,33 @@ In this step, you will create a new TYPO3 project and install the latest TYPO3 d
 1. Create a new directory on your local machine and `cd` into it
 2. Run the following composer command: \
 `composer create-project "typo3/cms-base-distribution:^13.4" my-new-project` \
-This step creates a new project in my-new-project and installs TYPO3 into this directory. You should see an output similar to this (abbreviated): \
+This step creates a new project in my-new-project and installs TYPO3 into this directory. You should see an output similar to this (abbreviated): 
+
+```
+Creating a "typo3/cms-base-distribution:^13.4" project at "./my-new-project"
+Installing typo3/cms-base-distribution (v13.4.1)
+  - Downloading typo3/cms-base-distribution (v13.4.1)
+  - Installing typo3/cms-base-distribution (v13.4.1): Extracting archive
+Created project in /Users/christoph/dev/OSP/typo3/t3docs/example_guide_1/my-new-project
+Loading composer repositories with package information
+Updating dependencies
+Lock file operations: 100 installs, 0 updates, 0 removals
+  - Locking bacon/bacon-qr-code (v3.0.1)
+  - Locking christian-riesen/base32 (1.6.0)
+
+...
+
+  - Installing typo3/cms-viewpage (v13.4.13): Extracting archive
+  - Installing typo3/cms-webhooks (v13.4.13): Extracting archive
+10 package suggestions were added by new dependencies, use `composer suggest` to see details.
+Generating autoload files
+Generating class alias map file
+Publishing public assets of TYPO3 extensions
+Published public assets
+44 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+No security vulnerability advisories found.
+```
 
 3. `cd` into `my-new-project` and verify if the following files and folders exist:
 * composer.json
