@@ -5,5 +5,4 @@ tasks:
 
 ports:
   - port: 8080
-    onOpen: open-browser
-    path: /Documentation-GENERATED-temp/Index.html
+    onOpen: open-preview
