@@ -17,7 +17,7 @@ In this step-by-step guide, you will add Welsh as a second language to your TYPO
 
 ## Watch the Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/B9TKbc7c7oI/0.jpg)](https://www.youtube.com/watch?v=B9TKbc7c7oI)
+[![Video demo](https://img.youtube.com/vi/B9TKbc7c7oI/0.jpg)](https://www.youtube.com/watch?v=B9TKbc7c7oI)
 
 
 ## Define a new language in TYPO3
