@@ -1,4 +1,4 @@
 tasks:
   - name: Build
-    init: make file
+    init: make docs
     command: python3 -m http.server 8080
