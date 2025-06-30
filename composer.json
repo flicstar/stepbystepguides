@@ -1,7 +1,14 @@
 {
   "name": "flicstar/stepbystepguides",
-  "type": "project",
+  "type": "typo3-cms-extension",
+  "description": "Step by step guides proof of concept",
+  "license": "GPL-2.0-or-later",
   "require": {
-    "t3docs/render-guides": "^0.3.2"
+    "typo3/cms-core": "^12.4 || ^13.4"
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "markdown_example"
+    }
   }
 }
