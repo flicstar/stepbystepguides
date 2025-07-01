@@ -9,7 +9,7 @@ In this step-by-step guide you will go through the setup steps required to initi
 ## Prerequisites
 
 * A new TYPO3 project created through one of the following options:
-    * [Install TYPO3 with Composer](https://docs.google.com/document/u/0/d/12w6hrQS5Aan9UaYRx_Jb0s0AvvwtMnokFowXnamoPQU/edit)
+    * [Install TYPO3 with Composer](install-typo3.md)
     * Install TYPO3 without Composer
     * Install TYPO3 with DDEV 
 * A PHP installation
