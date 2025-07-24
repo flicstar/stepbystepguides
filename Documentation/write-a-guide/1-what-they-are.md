@@ -13,7 +13,7 @@ TYPO3 step-by-step guides follow a few key principles:
 * **Aligned with TYPO3’s official documentation**: linking out to deeper material as needed  
 * Takes **less than 30 minutes** to complete
 
-A good step-by-step guide follows the [single-responsibility principle (SRP)](https://en.wikipedia.org/wiki/Single-responsibility_principle): **it should do one thing, and do it well.** Every step contributes directly to a single learning objective, and nothing more.  If you find yourself adding “If…” or “Alternatively…”, the guide may violate the single-responsibility principle.
+> A good step-by-step guide follows the [single-responsibility principle (SRP)](https://en.wikipedia.org/wiki/Single-responsibility_principle): **it should do one thing, and do > it well.** Every step contributes directly to a single learning objective, and nothing more.  If you find yourself adding “If…” or “Alternatively…”, the guide may violate the > single-responsibility principle.
 
 ## What are they not?
 
