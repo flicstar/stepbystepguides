@@ -5,7 +5,7 @@
         default-code-language="php"
         input-format="md"
         index-name="Index"
-        automatic-menu="false">
+        automatic-menu="true">
     <project
             title="Step-by-Step Guides"
     />
