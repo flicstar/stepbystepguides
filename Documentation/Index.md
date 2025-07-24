@@ -17,19 +17,6 @@ Welcome to the TYPO3 step-by-step guide library.
 4. [Code Examples](#code-examples)
 5. [Conclusion](#conclusion)
 
-## Welcome to TYPO3 Step-by-Step Guides
-
-Are you here to...
-
-<div style="display: flex; gap: 2em; margin-top: 2em;">
-  <a href="building-websites/Index.md" style="padding: 2em 3em; background: #f0f0f0; border-radius: 8px; text-decoration: none; font-size: 1.5em; color: #333; text-align: center;">
-    📚 I'm here to learn
-  </a>
-  <a href="contributors/Index.md" style="padding: 2em 3em; background: #e0f7fa; border-radius: 8px; text-decoration: none; font-size: 1.5em; color: #333; text-align: center;">
-    ✍️ I'm here to write a guide
-  </a>
-</div>
-
 ## Are you here to...
 
 - [📚 I'm here to learn](building-websites/Index.md)
