@@ -6,10 +6,6 @@
         input-format="md"
         index-name="Index"
         automatic-menu="false">
-    <section title="Building Websites" path="building-websites/Index.md" />
-    <section title="Getting Started" path="getting-started/Index.md" />
-    <section title="Performance" path="performance/Index.md" />
-    <section title="Projects" path="projects/Index.md" />
     <extension
  	class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
 	project-home="https://github.com/flicstar/stepbystepguides"
