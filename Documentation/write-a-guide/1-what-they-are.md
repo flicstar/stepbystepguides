@@ -17,7 +17,7 @@ A good step-by-step guide follows the [single-responsibility principle (SRP)](ht
 
 ## What are they not?
 
-Step-by-step guides aren’t examples. Examples do not guide the reader through a path of sequential steps. They are meant to be studied and understood rather than actively followed. Furthermore, examples serve to illustrate content already learned, whereas step-by-step guides introduce new content. 
+Step-by-step guides aren’t examples. Examples are usually found in the documentation, and help to illustrate concepts - they are meant to be studied and understood. Guides, in contrast, take the reader through a path of sequential steps, and are designed to be actively followed to learn a new concept. 
 
 ## Modular by design
 

@@ -1,4 +1,4 @@
-# Using the step-by-step guide template {#using-the-step-by-step-guide-template}
+# Using the template to create a guide
 
 When you create a step-by-step guide or a project guide for TYPO3, you must use the [step-by-step guide template](https://docs.google.com/document/d/19RtyBhfO6w86050C4vp2ZKheTtmCuyoNmky_NAojmZ8/edit?tab=t.bqu5tffu4mfi). Here we explain each section in detail and provide example text to help you.
 

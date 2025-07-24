@@ -1,4 +1,4 @@
-# Introduction to project guides
+# What are project guides?
 
 A project guide is made up of multiple step-by-step guides. 
 

@@ -1,5 +1,4 @@
-# Minimum requirements {#minimum-requirements}
-
+# Minimum requirements
 All TYPO3 Step-by-Step Guides must include the following required sections:
 
 * **Title** — Starts with a verb and reflects the overall learning objective  
@@ -24,7 +23,7 @@ All required sections must be complete and free of placeholders like “TBD.”
 
 Every guide will have room for improvement — that’s expected. That’s why all TYPO3 step-by-step guides include a [feedback section](https://docs.google.com/document/d/180tYApHdsnPvmym8t1JW3As55-k3uYH3eK2UP-yggT8/edit?tab=t.0#heading=h.sqg1yasqpd9d) to collect reader-reported gaps and issues.
 
-# Definition of done {#definition-of-done}
+# Definition of done
 
 A step-by-step guide is ready for submission when:
 
