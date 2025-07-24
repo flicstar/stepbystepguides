@@ -6,6 +6,9 @@
         input-format="md"
         index-name="Index"
         automatic-menu="false">
+    <project
+            title="Step-by-Step Guides"
+    />
     <extension
  	class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
 	project-home="https://github.com/flicstar/stepbystepguides"
